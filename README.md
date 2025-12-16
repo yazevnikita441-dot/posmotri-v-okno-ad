@@ -1,1 +1,1 @@
-https://github.com/ilkaxd/posmotri_v_okno.git
+https://github.com/yazevnikita441-dot/posmotri-v-okno-ad.git
