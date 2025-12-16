@@ -1,1 +1,1 @@
-https://github.com/yazevnikita441-dot/posmotri-v-okno-ad.git
+git@github.com:yazevnikita441-dot/posmotri-v-okno-ad.git
